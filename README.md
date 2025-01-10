@@ -9,6 +9,7 @@ The project's "main.py" file is the main code file that performs the training, t
 The "stopwords" folder is a folder that lists the stop words used in the project. These words are removed from the text during data preprocessing.
 
 Binary ROC AUC Score: 0.9826323797183245
+
 Confusion Matrix:
 [[746,77],
  [46,993]]
