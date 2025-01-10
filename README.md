@@ -6,6 +6,8 @@ The project's "main.py" file is the main code file that performs the training, t
 
 "comments.csv" includes 15.000 Turkish comments.
 
+15% of the data is reserved for testing.
+
 The "stopwords" folder is a folder that lists the stop words used in the project. These words are removed from the text during data preprocessing.
 
 Binary ROC AUC Score: 0.9826323797183245
