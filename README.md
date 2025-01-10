@@ -11,5 +11,7 @@ The "stopwords" folder is a folder that lists the stop words used in the project
 Binary ROC AUC Score: 0.9826323797183245
 
 Confusion Matrix:
+
 [[746,77],
+
  [46,993]]
