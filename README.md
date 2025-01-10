@@ -6,6 +6,8 @@ The project's "main.py" file is the main code file that performs the training, t
 
 "interface.py" is the Python file that creates the visual user interface of the application and interacts with the user.
 
+"review_file.py" opens a "pkl" file and analyzes the type of content.
+
 "comments.csv" includes 15.000 Turkish comments.
 
 15% of the data is reserved for testing.
