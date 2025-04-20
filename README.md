@@ -18,7 +18,8 @@ This Project is a Machine Learning project. The purpose of the project is to det
 ---
 - Binary ROC AUC Score: 0.9826323797183245
 
-```- Confusion Matrix:
+- Confusion Matrix:
+```
 True Positive: 745
 False Positive: 77
 False Negative: 46
